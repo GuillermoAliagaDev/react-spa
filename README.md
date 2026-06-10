@@ -54,7 +54,7 @@ npm run preview
 
 ## Link de exposición en YouTube
 
-*(Agregar aquí el enlace al video de sustentación)*
+[EXPOCISION EN YOUTUBE CLICK AQUI](https://youtu.be/D0QtP5imleY)
 
 ## Estructura del proyecto
 
