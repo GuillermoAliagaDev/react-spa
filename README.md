@@ -50,7 +50,25 @@ npm run preview
 
 ## Capturas de pantalla
 
-*(Agregar aquí las capturas de las vistas principales)*
+**Vista Inicio**
+
+<img src="./captures/home-page.png" alt="vista inicio" width="1000">
+
+**Vista Cursos 1**
+
+<img src="./captures/courses-page1.png" alt="vista inicio" width="1000">
+
+**Vista Cursos 2**
+
+<img src="./captures/courses-page2.png" alt="vista inicio" width="1000">
+
+**Vista Curso Detalle**
+
+<img src="./captures/course-detail.png" alt="vista inicio" width="1000">
+
+**Vista Pre Inscripcion**
+
+<img src="./captures/enrollement.png" alt="vista inicio" width="1000">
 
 ## Link de exposición en YouTube
 
